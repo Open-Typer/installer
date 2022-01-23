@@ -3,7 +3,7 @@ function Component() { }
 Component.prototype.createOperations = function()
 {
 	component.createOperations();
-	programName = "Open-Typer Class Monitor";
+	programName = "ClassMonitor";
 	programDescription = "Open-Typer class monitoring software";
 	if (systemInfo.productType === "windows") {
 		component.addOperation("CreateShortcut", "@TargetDir@/" + programName + ".exe", "@StartMenuDir@/" + programName + ".lnk",
