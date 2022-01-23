@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+	<Name>Open-Typer</Name>
+	<Version>2.1.0</Version>
+	<Title>Open-Typer Installer</Title>
+	<Publisher>adazem009</Publisher>
+	<StartMenuDir>Open-Typer</StartMenuDir>
+	<TargetDir>@ApplicationsDirX86@/Open-Typer</TargetDir>
+	<ControlScript>controller.qs</ControlScript>
+	<RemoteRepositories>
+		<Repository>
+			<Url>http://open-typer.github.io/installer</Url>
+			<Enabled>1</Enabled>
+			<DisplayName>Open-Typer official repository</DisplayName>
+		</Repository>
+	</RemoteRepositories>
+</Installer>
