@@ -25,6 +25,7 @@ $BINARYCREATOR --offline-only -c config/config.xml -p packages Open-Typer-instal
 
 echo "Generating repository..."
 $REPOGEN -p packages repository || exit $?
+git branch -d repository
 git switch --orphan repository &&
 mv repository/* ./ &&
 rm -rf repository &&
