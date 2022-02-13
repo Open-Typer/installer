@@ -2,8 +2,8 @@
 <Package>
 	<DisplayName>Open-Typer Class Monitor</DisplayName>
 	<Description>Install Open-Typer Class Monitor.</Description>
-	<Version>0.1.0</Version>
-	<ReleaseDate>2022-02-06</ReleaseDate>
+	<Version>0.1.1</Version>
+	<ReleaseDate>2022-02-13</ReleaseDate>
 	<Licenses>
 		<License name="GNU General Public License Agreement" file="license.txt" />
 	</Licenses>
