@@ -2,8 +2,8 @@
 <Package>
 	<DisplayName>Open-Typer training software</DisplayName>
 	<Description>Install Open-Typer training software.</Description>
-	<Version>3.3.0</Version>
-	<ReleaseDate>2022-03-26</ReleaseDate>
+	<Version>3.4.0</Version>
+	<ReleaseDate>2022-04-02</ReleaseDate>
 	<Licenses>
 		<License name="GNU General Public License Agreement" file="license.txt" />
 	</Licenses>
