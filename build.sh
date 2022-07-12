@@ -10,6 +10,7 @@ if [[ "$BINARYCREATOR" == "" ]]; then
 	fi
 fi
 
+REPOGEN=$2
 if [[ "$REPOGEN" == "" ]]; then
 	if [[ `command -v repogen` != "" ]]; then
 		REPOGEN=repogen
