@@ -34,4 +34,3 @@ echo "Open-Typer-installer*" > .gitignore &&
 echo "packages/" >> .gitignore &&
 git add -A &&
 git commit -m "Generate repository" &&
-git push -f --set-upstream origin repository
