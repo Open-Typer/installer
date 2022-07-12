@@ -33,4 +33,4 @@ rm -rf repository &&
 echo "Open-Typer-installer*" > .gitignore &&
 echo "packages/" >> .gitignore &&
 git add -A &&
-git commit -m "Generate repository" &&
+git commit -m "Generate repository"
