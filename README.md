@@ -6,6 +6,6 @@ The `repository` branch contains the latest version of Open-Typer, which is fetc
 
 ## Build script
 
-The `build.sh` script can be used to **build installer executable**, **generate repository** and push the new files.
+The `build.sh` script can be used to **build installer executable** and **generate repository**.
 
 The `repository` branch is always regenerated so that it doesn't contain obsolete git history.
