@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.adazem009.opentyper</Name>
+  <DisplayName>Open-Typer training software</DisplayName>
+  <Description>Install Open-Typer training software.</Description>
+  <Version>4.1.0</Version>
+  <ReleaseDate>2022-07-18</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile UncompressedSize="81313060" CompressedSize="21509742" OS="Any"/>
+  <DownloadableArchives>Open-Typer.7z</DownloadableArchives>
+  <Licenses>
+   <License name="GNU General Public License Agreement" file="license.txt"/>
+  </Licenses>
+  <SHA1>6e6cdea27914cb08b50b460729a3a5319c2a1634</SHA1>
+ </PackageUpdate>
+ <SHA1>6e6cdea27914cb08b50b460729a3a5319c2a1634</SHA1>
+ <MetadataName>2022-07-18-1244_meta.7z</MetadataName>
+</Updates>
