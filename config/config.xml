@@ -5,7 +5,7 @@
 	<Title>Open-Typer</Title>
 	<Publisher>adazem009</Publisher>
 	<StartMenuDir>Open-Typer</StartMenuDir>
-	<TargetDir>@ApplicationsDirX86@/Open-Typer</TargetDir>
+	<TargetDir>@ApplicationsDir@/Open-Typer</TargetDir>
 	<ControlScript>controller.qs</ControlScript>
 	<RemoteRepositories>
 		<Repository>
