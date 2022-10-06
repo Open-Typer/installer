@@ -2,6 +2,7 @@
 <Package>
 	<DisplayName>Open-Typer training software</DisplayName>
 	<Description>Install Open-Typer training software.</Description>
+	<Dependencies>com.microsoft.vcredist</Dependencies>
 	<Version>4.3.1</Version>
 	<ReleaseDate>2022-09-19</ReleaseDate>
 	<Licenses>
