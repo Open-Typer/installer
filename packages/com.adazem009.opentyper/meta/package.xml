@@ -4,7 +4,7 @@
 	<Description>Install Open-Typer training software.</Description>
 	<Dependencies>com.microsoft.vcredist</Dependencies>
 	<Version>4.4.0</Version>
-	<ReleaseDate>2022-11-28</ReleaseDate>
+	<ReleaseDate>2022-11-29</ReleaseDate>
 	<Licenses>
 		<License name="GNU General Public License Agreement" file="license.txt" />
 	</Licenses>
