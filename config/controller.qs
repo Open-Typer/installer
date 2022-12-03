@@ -1,5 +1,3 @@
-function Controller() { }
-
 function Controller() {
 	installer.setMessageBoxAutomaticAnswer("installationErrorWithRetry", QMessageBox.Ignore);
 	installer.setMessageBoxAutomaticAnswer("installationError", QMessageBox.Ignore);
