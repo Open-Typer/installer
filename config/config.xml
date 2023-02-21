@@ -6,6 +6,8 @@
 	<Publisher>adazem009</Publisher>
 	<StartMenuDir>Open-Typer</StartMenuDir>
 	<TargetDir>@ApplicationsDir@/Open-Typer</TargetDir>
+	<InstallerWindowIcon>windowicon.png</InstallerWindowIcon>
+	<InstallerApplicationIcon>appicon</InstallerApplicationIcon>
 	<ControlScript>controller.qs</ControlScript>
 	<RemoteRepositories>
 		<Repository>
