@@ -8,6 +8,8 @@
 	<TargetDir>@ApplicationsDir@/Open-Typer</TargetDir>
 	<InstallerWindowIcon>windowicon.png</InstallerWindowIcon>
 	<InstallerApplicationIcon>appicon</InstallerApplicationIcon>
+	<WizardStyle>Modern</WizardStyle>
+	<StyleSheet>style.qss</StyleSheet>
 	<ControlScript>controller.qs</ControlScript>
 	<RemoteRepositories>
 		<Repository>
