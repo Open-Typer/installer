@@ -1,0 +1,36 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.adazem009.opentyper</Name>
+  <DisplayName>Open-Typer training software</DisplayName>
+  <Description>Install Open-Typer training software.</Description>
+  <Dependencies>com.microsoft.vcredist</Dependencies>
+  <Version>5.2.1</Version>
+  <ReleaseDate>2023-08-15</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="110592557" CompressedSize="28704505"/>
+  <DownloadableArchives>Open-Typer.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="GNU General Public License Agreement"/>
+  </Licenses>
+  <SHA1>20bc9fe2d9be9eac423a838146ec17c02a4ec293</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>com.microsoft.vcredist</Name>
+  <DisplayName>Microsoft Visual C++ Redistributable</DisplayName>
+  <Description>Installs the Visual C++ redistributables</Description>
+  <Version>14.29.30139</Version>
+  <ReleaseDate>2019-04-02</ReleaseDate>
+  <Virtual>true</Virtual>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="25226504" CompressedSize="23570508"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <SHA1>ac4a5fbbcd64bd3e59aa7fadbe88760b3e45a2c8</SHA1>
+ </PackageUpdate>
+ <SHA1>7e711b877c09ddcb9f5c56b15f82630be3d14e12</SHA1>
+ <MetadataName>2023-08-15-0924_meta.7z</MetadataName>
+</Updates>
